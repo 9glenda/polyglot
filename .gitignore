@@ -1,0 +1,11 @@
+# Please keep each section in ASCII (LC_ALL=C sort) order.
+
+# File patterns to ignore. This applies recursively to all subdirectories.
+*.o
+.depend
+
+# Per directory patterns to ignore. These do not apply recursively to
+# subdirectories. Each line should begin with "[!]/". Please keep the
+# directories in depth first order followed by ASCII (LC_ALL=C sort) order.
+
+/src/polyglot
