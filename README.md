@@ -1,4 +1,4 @@
-polyglot
+polyglot (personal fork to archive working code)
 ========
 
 This is the open source polyglot chess opening book utility. I could not find this on github anywhere. Changes to support game indexing via leveldb have been added.
